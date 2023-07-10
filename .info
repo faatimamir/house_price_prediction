@@ -1,0 +1,13 @@
+Title: Exploratory Data Analysis for California Housing Prices
+
+Introduction:
+The provided code performs Exploratory Data Analysis (EDA) on the California Housing Prices dataset sourced from Kaggle.
+The dataset contains information about various housing parameters in different locations across California. 
+The code uses Python and popular data analysis libraries such as pandas, seaborn, and matplotlib to analyze and visualize the data.
+
+Dataset Information:
+The California Housing Prices dataset provides details about housing features, including geographical coordinates, housing median age,
+total rooms, total bedrooms, population, households, median income, median house value, and ocean proximity.
+The dataset is sourced from the Kaggle repository titled "California Housing Prices" by Cam Nugent.
+      https://www.kaggle.com/datasets/camnugent/california-housing-prices
+      
